@@ -3,7 +3,7 @@
 Arduino board có khả năng đo đạc các dữ kiện như nồng độ pH nước, lưu lượng nước, và nồng độ hòa tan chất rắn của nước, và gửi đến server thông qua MQTT, đồng thời ước lượng chất lượng nước. 
 
 # Design
-- Thiết bị sử dụng:
+Thiết bị sử dụng:
 - ESP32-WROOM
 - TDS Meter V1.0
 - Logo-Rnaeaor V2.0 (pH sensor)
