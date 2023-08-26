@@ -9,7 +9,8 @@ Thiết bị sử dụng:
 - Logo-Rnaeaor V2.0 (pH sensor)
 - Yf-s401 Streamflow sensor
 - Ds18b20 Underwater Temperature Sensor
-SP32 sẽ đo đạc các thông số mỗi 40ms và lấy trung bình mỗi 1s để tính WQI. Ngoài ra, mỗi 10s ESP32 sẽ gửi đo đạc cho hệ thống MQTT. 
+  
+ESP32 sẽ đo đạc các thông số mỗi 40ms và lấy trung bình mỗi 1s để tính WQI. Ngoài ra, mỗi 10s ESP32 sẽ gửi đo đạc cho hệ thống MQTT. 
 
 # Hướng dẫn sử dụng:
 1. Sử dụng Arduino IDE và tải MQTT Arduino Client
