@@ -1,6 +1,7 @@
 # AquaEmi_IoT
 Overview
 Arduino board có khả năng đo đạc các dữ kiện như nồng độ pH nước, lưu lượng nước, và nồng độ hòa tan chất rắn của nước, và gửi đến server thông qua MQTT, đồng thời ước lượng chất lượng nước. 
+
 Design
 Thiết bị sử dụng:
 ESP32-WROOM
